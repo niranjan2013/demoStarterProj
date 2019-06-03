@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class CNA ApplicationTests {
+public class CNAApplicationTests {
 
 	@Test
 	public void contextLoads() {
